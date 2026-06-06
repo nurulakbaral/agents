@@ -23,3 +23,4 @@ See [layered-structure.md](./layered-structure.md) for:
 
 - [Component Composition is great btw](https://tkdodo.eu/blog/component-composition-is-great-btw)
 - [How to Better Organize Your React Component Files?](https://thetshaped.dev/p/how-to-better-organize-your-react-component-files-using-layered-approach)
+- [React Composition Patterns](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns)
