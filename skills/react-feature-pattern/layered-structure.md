@@ -107,9 +107,11 @@ function validateUserPayload(data: unknown): boolean {
 // User Form
 // ------------------------------------------------------------------------------------------
 
-type TUserFormProps = {}
+type TUserFormProps = {
+  form?: TUserForm
+}
 
-function UserForm({ data, onSubmit, ...props }: TUserFormProps) {
+function UserForm({ form, ...props }: TUserFormProps) {
   return (
     <section {...props}>
       {/* ... */}
@@ -121,7 +123,10 @@ function UserForm({ data, onSubmit, ...props }: TUserFormProps) {
 // User Table
 // ------------------------------------------------------------------------------------------
 
-type TUserTableProps = {}
+type TUserTableProps = {
+  data?: TUserList[]
+  isLoading?: boolean
+}
 
 function UserTable({ data, isLoading, ...props }: TUserTableProps) {
   return (
@@ -152,7 +157,7 @@ export function User({ ...props }: TUserProps) {
 
   return (
     <div {...props}>
-      <UserForm data={form} />
+      <UserForm form={form} />
       <UserTable data={rows} isLoading={request.isLoading} />
     </div>
   )
