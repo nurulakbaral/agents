@@ -8,7 +8,7 @@ Configuration templates for AI coding harnesses and IDEs, including Codex, OpenC
 
 ### References
 
-- [Model Context Proto](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
 
 ### Prompt Design
 
@@ -27,3 +27,4 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 - [Agent Skills: A simple, open format for giving agents new capabilities and expertise.](https://agentskills.io/home)
 - [Skills: The Open Agent Skills Ecosystem](https://skills.sh/)
 - [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670)
+- [Skills are docs, and docs need tech writers](https://passo.uno/skills-are-docs/)
