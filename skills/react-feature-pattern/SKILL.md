@@ -11,6 +11,11 @@ metadata:
 
 Apply these rules when creating, refactoring, or reviewing a feature-based architecture in React.js.
 
+## Folder Structure
+
+See [hello]() for:
+- soon
+
 ## Layered Structure
 
 See [layered-structure.md](./layered-structure.md) for:
@@ -18,9 +23,30 @@ See [layered-structure.md](./layered-structure.md) for:
 - A well-organized structure
 - Naming conventions for components (code and files)
 
+## Types Conventions
+
+See [hello]() for:
+- soon
+
+## Service Layer
+
+See [hello]() for:
+- soon
+
+## Stores and States
+
+See [hello]() for:
+- soon
+
+## Utilities, Helpers, and Hooks
+
+See [hello]() for:
+- soon
+
 
 ## Skill Reference (Only for Reference, Do Not Use)
 
 - [Component Composition is great btw](https://tkdodo.eu/blog/component-composition-is-great-btw)
 - [How to Better Organize Your React Component Files?](https://thetshaped.dev/p/how-to-better-organize-your-react-component-files-using-layered-approach)
 - [React Composition Patterns](https://github.com/vercel-labs/agent-skills/tree/main/skills/composition-patterns)
+- [whatthefuck.is · composition](https://whatthefuck.is/composition)
