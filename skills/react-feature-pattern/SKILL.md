@@ -16,9 +16,9 @@ Apply these rules when creating, refactoring, or reviewing a feature-based archi
 See [hello]() for:
 - soon
 
-## Layered Structure
+## Layered Components
 
-See [layered-structure.md](./layered-structure.md) for:
+See [layered-components.md](./layered-components.md) for:
 - Component composition
 - A well-organized structure
 - Naming conventions for components (code and files)
@@ -28,7 +28,7 @@ See [layered-structure.md](./layered-structure.md) for:
 See [hello]() for:
 - soon
 
-## Service Layer
+## HTTP and Services
 
 See [hello]() for:
 - soon

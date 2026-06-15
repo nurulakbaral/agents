@@ -1,4 +1,4 @@
-# Layered Structure
+# Layered Components
 
 A guide for structuring component-based architecture in React.js with a clean, consistent flow.
 
