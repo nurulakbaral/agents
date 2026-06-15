@@ -33,7 +33,7 @@ See [hello]() for:
 See [hello]() for:
 - soon
 
-## Stores and States
+## State Management
 
 See [hello]() for:
 - soon
