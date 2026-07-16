@@ -16,6 +16,11 @@ Apply these rules when creating, refactoring, or reviewing a feature-based archi
 See [hello]() for:
 - soon
 
+## Type Conventions
+
+See [hello]() for:
+- soon
+
 ## Layered Components
 
 See [layered-components.md](./layered-components.md) for:
@@ -23,12 +28,7 @@ See [layered-components.md](./layered-components.md) for:
 - A well-organized structure
 - Naming conventions for components (code and files)
 
-## Types Conventions
-
-See [hello]() for:
-- soon
-
-## HTTP and Services
+## Service Management
 
 See [hello]() for:
 - soon
@@ -38,10 +38,10 @@ See [hello]() for:
 See [hello]() for:
 - soon
 
-## Utilities, Helpers, and Hooks
+## Toolkit Management
 
 See [hello]() for:
-- soon
+- Utilities, helpers, and hooks
 
 
 ## Skill Reference (Only for Reference, Do Not Use)
