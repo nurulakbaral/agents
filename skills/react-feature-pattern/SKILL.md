@@ -27,6 +27,7 @@ See [layered-components.md](./layered-components.md) for:
 - Component composition
 - A well-organized structure
 - Naming conventions for components (code and files)
+- Views folder
 
 ## Service Management
 
