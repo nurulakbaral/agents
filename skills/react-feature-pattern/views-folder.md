@@ -1,4 +1,4 @@
-# Layered Components
+# Views Folder
 
 A guide for structuring component-based architecture in React.js with a clean, consistent flow.
 

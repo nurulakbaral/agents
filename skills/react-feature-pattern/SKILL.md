@@ -4,7 +4,7 @@ description: Pattern for creating features by domain to make the codebase more m
 metadata:
   author: Nurul Akbar Al-Ghifari
   license: MIT License
-  version: "1.0-alpha (in progress)"
+  version: "0.1"
 ---
 
 # React Feature Pattern
@@ -13,37 +13,36 @@ Apply these rules when creating, refactoring, or reviewing a feature-based archi
 
 ## Folder Structure
 
-See [hello]() for:
-- soon
+See [folder-structure.md](./folder-structure.md) for
+- Folder structure
 
-## Type Conventions
+## Services Folder
 
-See [hello]() for:
-- soon
+See [services-folder.md](./services-folder.md) for:
+- Services folder
 
-## Layered Components
+## Statics Folder
 
-See [layered-components.md](./layered-components.md) for:
+See [statics-folder.md](./statics-folder.md) for:
+- Statics folder
+
+## Stores Folder
+
+See [stores-folder.md](./stores-folder.md) for:
+- Stores folder
+
+## Toolkits Folder
+
+See [toolkits-folder.md](./toolkits-folder.md) for:
+- Utilities, helpers, and react hooks.
+
+## Views Folder
+
+See [views-folder.md](./views-folder.md) for:
 - Component composition
 - A well-organized structure
 - Naming conventions for components (code and files)
 - Views folder
-
-## Service Management
-
-See [hello]() for:
-- soon
-
-## State Management
-
-See [hello]() for:
-- soon
-
-## Toolkit Management
-
-See [hello]() for:
-- Utilities, helpers, and hooks
-
 
 ## Skill Reference (Only for Reference, Do Not Use)
 
