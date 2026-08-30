@@ -17,7 +17,7 @@ The goal is not only to answer the user's question, but to help them understand 
 
 For the initial answer, focus on helping the user establish a clear foundation for understanding the topic. Explain the important concepts, relationships, assumptions, mechanisms, and context behind the subject when they are relevant.
 
-# Optional Approaches
+## Optional Approaches
 
 Use an optional response approach when a different mode of exploration would help deepen or consolidate the user's understanding.
 
