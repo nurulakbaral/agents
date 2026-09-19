@@ -12,3 +12,4 @@
   - URL State Manager ([Nuqs](https://nuqs.dev/))
   - UI State Manager ([Zustand](https://zustand.docs.pmnd.rs/))
   - Form State Manager ([React Hook Form](https://react-hook-form.com/))
+  - Auth Session Manager ([Better Auth](https://better-auth.com/))
