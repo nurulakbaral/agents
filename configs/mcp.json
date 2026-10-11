@@ -4,12 +4,5 @@
       "$ref": "https://www.figma.com/mcp-catalog/",
       "url": "https://mcp.figma.com/mcp",
       "type": "http"
-    },
-    "figma-mcp-go": {
-      "$ref": "https://github.com/vkhanhqui/figma-mcp-go",
-      "type": "stdio",
-      "command": "npx",
-      "args": ["-y", "@vkhanhqui/figma-mcp-go"]
-    }
-  }
+    }  }
 }
