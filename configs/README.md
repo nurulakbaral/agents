@@ -1,5 +1,13 @@
 # Collections
 
+## llms.txt
+
+`llms.txt` markdown is human and LLM readable, but is also in a precise format allowing fixed processing methods (i.e. classical programming techniques such as parsers and regex).
+
+- [llms.txt - Specification](https://llmstxt.org/)
+- [Base UI](https://base-ui.com/llms.txt)
+- [Mantine UI](https://mantine.dev/llms.txt)
+
 ## Prompt Design
 
 Golden Rule — Show your prompt to a colleague with minimal context on the task and ask them to follow it. If they'd be confused, LLMs will be too.
@@ -13,6 +21,7 @@ A simple, open format for guiding coding agents.
 - [AGENTS.md - Specification](https://agents.md/)
 - [Dumb Human](https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff)
 - [Andrej Karpathy's observations](https://github.com/multica-ai/andrej-karpathy-skills)
+- [1cg AI Agent Guidelines](https://gist.github.com/1cg/a6c6f2276a1fe5ee172282580a44a7ac)
 
 ## Agent Skills
 
@@ -37,5 +46,5 @@ MCP (Model Context Protocol) is an open-source standard for connecting AI applic
 ## Harness Configs
 
 - [Codex](https://developers.openai.com/codex/config-basic)
-- [Opencode](https://opencode.ai/docs/config/)
+- [OpenCode](https://opencode.ai/docs/config/)
 - [Pi](https://pi.dev/docs/latest/configuration)
